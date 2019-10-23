@@ -1,6 +1,7 @@
 # Summary
 related work:
 - A Survey on Object Detection and Tracking Methods : [link to paper](https://pdfs.semanticscholar.org/25a6/c5dff9a7019475daa81cd5a7f1f2dcdb5cf1.pdf)
+- Object tracking methods and their areas of application: A meta-analysis [link to paper](http://www8.cs.umu.se/education/examina/Rapporter/SannaAgrenFinal.pdf)
 
 ## Object detection
 related work :
