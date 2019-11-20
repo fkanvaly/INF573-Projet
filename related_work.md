@@ -12,3 +12,4 @@ related work :
 related work :
 - particules filtering c++: [link](https://bitbucket.org/kschluff/particle_tracker/src/default/)
 - Extendes Kalman Filtration in OpenCV (Seems most useful for pedestrian tracking) : [link](https://sites.google.com/site/timecontroll/tutorials/extended-kalman-filtering-with-opencv)
+- tracking implementation : [link](https://github.com/Smorodov/Multitarget-tracker)
