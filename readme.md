@@ -44,3 +44,5 @@ option:
 NB: 
 - if you found it slow change the tracker to MOSSE
 - Yolo model and more video for test download them here : [Drive](https://drive.google.com/drive/folders/1tNmK_rk1iTbWm5iOlGGlqx__9RF6EtUj?usp=sharing)
+
+A demo video is available in result folder
