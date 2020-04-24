@@ -1,7 +1,7 @@
 # OBJECT TRACKING 
 Author: Kanvaly FADIGA, Yelan MO - Ecole Polytechnique
 
-This repository contain our submission for INF574 - Computer Vision Project. The goal was to code a multiobject tracking systeme and develop ensemble of tools around him to apply him in a specific domain. we choose choose to apply him in surveillance video.
+This repository contain our submission for INF574 - Computer Vision Project. The goal was to code a multiobject tracking systeme and develop ensemble of tools around, in a specific domain. we choose choose to apply him in surveillance video.
 
 ## Dependancies
 - We work with OpenCV 4.+
